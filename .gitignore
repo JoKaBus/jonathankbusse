@@ -12,8 +12,9 @@ Gemfile.lock
 node_modules
 package-lock.json
 
-# Ignore local history
+# Ignore local packages
 .local-history
+.obsidian
 
 # For local testing
 .bundle
