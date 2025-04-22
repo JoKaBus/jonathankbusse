@@ -15,4 +15,4 @@ About me
 ======
 When i am done crunching numbers i like to go dancing in bouldering.
 I'm especially thankful for my roommates who accept me playing piano until in the evening.
-If there is still time on the weekend, you may find me playing board games with my friend.
+If there is still time on the weekend, you may find me playing board games with my friends.
