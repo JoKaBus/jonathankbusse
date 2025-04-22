@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Jonathan K. Busse / Personal Site"
+title                    : "Jonathan Kaspar Busse"
 title_separator          : "-"
 name                     : &name "Jonathan K. Busse"
 description              : &description "PhD Candidate at the German Aerospace Center (DLR)"
