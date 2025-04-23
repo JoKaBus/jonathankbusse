@@ -22,9 +22,10 @@ For \\(\operatorname{Re}(\nu) > 1\\), the Riemann zeta function takes the simple
 \\]
 Even in one dimension, the Epstein zeta function has three more parameters: A rotation \\(y\in\mathbb R\\), a shift \\(x\in\mathbb R\\) and a scale factor for the integers \\(c>0\\)
 \\[
-Z_{c\mathbb Z,\nu} \genfrac||{0pt}{0}{x}{y}=\sum_{z=-\infty}^{\infty}\frac{e^{-2\pi i (cz)\cdot y}}{(cz-x)^{\nu}}
-,\qquad \operatorname{Re}(\nu)>1.
+Z_{c\mathbb Z,\nu} \genfrac||{0pt}{0}{x}{y}=\sum_{z=-\infty}^{\infty}'\frac{e^{-2\pi i (cz)\cdot y}}{(cz-x)^{\nu}}
+,\qquad \operatorname{Re}(\nu)>1
 \\]
+where the primed sum signifies the exclusion of \\(cz = x\\).
 The Millenium problem regarding the zeros at \\(\operatorname{Re}(\nu)=1/2\\) arises when \\(\nu\in \mathbb C\setminus \\{1\\}\\), where both functions are extended using its so-called meromorphic continuation, which is outside the scope of blog post for a general audience.
 
 Epstein, who later committed suicide in fear of persecution by the Gestapo, already derived most of the results we are working with today. This is incredibly impressive, and his work deserves to be more widely recognized, which is one of my reasons for writing this.
