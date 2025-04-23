@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.jpeg"
   name             : "Jonathan K. Busse"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he / him"  
   bio              : "I am a PhD Candidate at the German Aerospace Center (DLR), specializing in numerical analysis in high-precision many-body physics."
   employer         : "German Aerospace Center (DLR)"
   location         : "Bonn, Germany"
@@ -34,12 +34,12 @@ author:
 
   # Academic websites
   arxiv            : "https://arxiv.org/a/busse_j_1.html"
-  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=kQcJUkkAAAAJ&hl=de&oi=ao"
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0001-3323-3455"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Jonathan-Busse"
   scopus           : # URL
 
   # Repositories and software development
@@ -58,7 +58,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : "jonakaspar"
   lastfm           : # Username
   linkedin         : "jonathan-kaspar-busse-04198a272"
   mastodon         : # URL
