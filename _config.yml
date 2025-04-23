@@ -13,7 +13,7 @@ title                    : "Jonathan Kaspar Busse"
 title_separator          : "-"
 name                     : &name "Jonathan K. Busse"
 description              : &description "PhD Candidate at the German Aerospace Center (DLR)"
-url                      : https://jokabus.github.io # the base hostname & protocol for your site
+url                      : "https://jokabus.github.io" # the base hostname & protocol for your site
 baseurl                  : "/jonathankbusse" # the subpath of your site, which is your repository name
 repository               : "JoKaBus/jonathankbusse"
 
