@@ -1,5 +1,5 @@
 ---
-title: "Introductory Course to University Mathematics"
+title: "WS 2019/2020: Introductory Course to University Mathematics"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2019-09-Merkblatt
