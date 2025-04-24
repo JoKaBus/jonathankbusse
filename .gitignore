@@ -11,3 +11,11 @@ Gemfile.lock
 # Ingore files created by npm
 node_modules
 package-lock.json
+
+# Ignore local packages
+.local-history
+.obsidian
+
+# For local testing
+.bundle
+vendor/
