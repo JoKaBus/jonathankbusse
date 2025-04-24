@@ -3,7 +3,7 @@
 
 This is my personal academic website, hosted at [jonathankbusse.com](https://jonathankbusse.com).
 
-It is a fork of the excellent open-source project [academicpages](https://academicpages.github.io/), which provides a flexible and easy-to-use template for academic websites built with Jekyll.
+It is a fork of the excellent open-source project [academicpages](https://academicpages.github.io/), which provides a very pretty and easy-to-use template for academic websites built with Jekyll.
 
 ## About
 
