@@ -19,3 +19,10 @@ About Me
 ======
 When I’m done crunching numbers, I like to go dancing or bouldering. I’m especially thankful for my roommates, who accept me playing piano late into the evening. If there’s still time on the weekend, you may find me playing board games with my friends.
 
+Get in Contact
+=====
+You can reach me at 
+<span style="unicode-bidi:bidi-override; direction: rtl;">
+ed&nbsp;[tod]&nbsp;essubj&nbsp;[ta]&nbsp;nahtanoj
+</span>.
+
