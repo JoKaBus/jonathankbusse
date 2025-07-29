@@ -13,7 +13,7 @@ This is what I am trying to find out in my PhD at the German Aerospace Center (D
 
 The Epstein Zeta Function
 ======
-My research revolves around the Epstein zeta function, a special function with applications to many-body lattice systems and many exciting properties. It is a broad generalization of the famous Riemann zeta function, whose zeros are the subject of one of the Millennium Problems.
+My research revolves around the Epstein zeta function, a special function with applications to many-body lattice systems with many exciting properties. It is a broad generalization of the famous Riemann zeta function, whose zeros are the subject of one of the Millennium Problems.
 
 About Me
 ======
