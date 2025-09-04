@@ -78,16 +78,16 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  software:
-    title: 'Software'
-  preprints:
-    title: 'Preprints'
-  books:
-    title: 'Books'
   manuscripts:
     title: 'Journal Articles'    
+  software:
+    title: 'Software'
+  books:
+    title: 'Books'
   conferences:
     title: 'Conference Papers'
+  preprints:
+    title: 'Preprints'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
