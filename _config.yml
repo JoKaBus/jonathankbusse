@@ -26,9 +26,11 @@ author:
   avatar           : "profile.jpeg"
   name             : "Jonathan K. Busse"
   pronouns         : "he / him"  
-  bio              : "I am a PhD Candidate at the German Aerospace Center (DLR), specializing in the development of methods and algorithms for long-range interacting classical and quantum lattices"
+  bio              : "I am a PhD Candidate at the German Aerospace Center (DLR), specializing in long-range interacting classical and quantum systems"
   employer         : "German Aerospace Center (DLR)"
-  university: "Saarland University"
+  employer_url     : "https://www.dlr.de"
+  university       : "Saarland University"
+  university_url   : "https://www.uni-saarland.de"
   location         : "Bonn, Germany"
   uri              : # URL
   email            : # "jonathan@jbusse.de" 

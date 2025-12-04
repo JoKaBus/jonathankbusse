@@ -9,7 +9,8 @@ redirect_from:
 
 
 **Consider the following:** What computable effects do particles have on each other if there are simply too many of them for computers to handle separately, and if their properties are lost when we "smooth them out" too much?
-This is what I am trying to find out in my PhD at the German Aerospace Center (DLR), where I specialize in numerical analysis in high-precision many-body physics.
+This is what I am trying to find out in my PhD at the German Aerospace Center (DLR), where I specialize in the development of methods and algorithms for long-range interacting classical and quantum lattices.
+
 
 The Epstein Zeta Function
 ======
