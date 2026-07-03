@@ -2,7 +2,7 @@
 title: "Epstein zeta method for many-body lattice sums"
 collection: publications
 category: preprints
-permalink: /publication/2025-04-16-epstein-zeta-method
+permalink: /publication/25-04-16-epstein-zeta-method
 excerpt: 'This paper presents an efficiently computable representation of many-body lattice sums in terms of singular integrals over products of Epstein zeta functions.'
 date: 2025-04-16
 venue: 'arXiv'

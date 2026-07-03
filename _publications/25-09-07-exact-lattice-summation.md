@@ -2,7 +2,7 @@
 title: "Exact lattice summations for Lennard-Jones potentials coupled to a three-body Axilrod-Teller-Muto term applied to cuboidal phase transitions"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-08-20-exact-lattice-summations
+permalink: /publication/25-09-07-exact-lattice-summations
 excerpt: 'This paper provides a rigorous analysis of Bain-type cuboidal lattice transformations, incorporating a general (n,m) Lennard-Jones two-body potential and a long-range repulsive Axilrod-Teller-Muto (ATM) three-body potential.'
 date: 2025-08-20
 venue: 'Journal of Chemical Physics'

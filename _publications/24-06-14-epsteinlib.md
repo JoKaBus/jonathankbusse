@@ -2,7 +2,7 @@
 title: "EpsteinLib: Fast and Efficient Computation of the Epstein Zeta Function"
 collection: publications
 category: software
-permalink: /publication/2024-06-14-epsteinlib
+permalink: /publication/24-06-14-epsteinlib
 excerpt: EpsteinLib is a C library and Python package for fast and efficient computation of the Epstein zeta function for arbitrary multidimensional lattices.
 date: 2024-06-14
 venue: GitHub
