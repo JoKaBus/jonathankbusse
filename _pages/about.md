@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "My PhD"
+title: "Exact Numerics for Many-Body Systems"
 author_profile: true
 redirect_from: 
   - /about/
