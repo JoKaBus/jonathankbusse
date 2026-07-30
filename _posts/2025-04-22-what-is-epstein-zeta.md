@@ -1,14 +1,11 @@
 ---
-title: 'What does the Epstein zeta function actually do?'
+title: "What Does the Epstein Zeta Function Actually Do?"
 date: 2025-04-22
 permalink: /posts/2025/04/what-does-epstein-zeta-do/
+excerpt: "The Riemann hypothesis does not hold for the Epstein zeta function, though the physical applications are abundant."
 tags:
-  - math
-  - physics
-  - history
-  - number theory
-  - casimir effect
-  - Epstein Zeta function
+  - epstein zeta
+  - mathematics
 ---
 
 When I first started studying mathematics at university, I was obsessed with popular math problems, such as the Riemann Hypothesis. The conjecture states that all zeros of the Riemann zeta function other than \\(-2, -4, -6\\), ... lie on the critical line \\(\operatorname{Re}(\nu) = 1/2\\). If proven, this would earn you a million dollars 💸
