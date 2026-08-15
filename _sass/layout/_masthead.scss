@@ -29,6 +29,7 @@
     @include clearfix;
     padding: 0.5em 1em;
     font-family: $sans-serif-narrow;
+    letter-spacing: -0.03em;
 
     @include breakpoint($x-large) {
       max-width: $x-large;
@@ -46,6 +47,10 @@
 
 .masthead__menu {
 
+  @include breakpoint($large) {
+    padding-left: 21.186440678%;
+  }
+
   ul {
     margin: 0;
     padding: 0;
@@ -61,7 +66,7 @@
   white-space: nowrap;
 
   &--lg {
-    padding-right: 2em;
-    font-weight: 700;
+    padding-right: 1em;
+    font-weight: 500;
   }
 }
