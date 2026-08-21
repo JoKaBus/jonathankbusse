@@ -2,7 +2,7 @@
 title: "Exact lattice summations for Lennard-Jones potentials coupled to a three-body Axilrod-Teller-Muto term applied to cuboidal phase transitions"
 collection: publications
 category: manuscripts
-permalink: /publication/exact-lattice-summations
+permalink: /publication/exact-lattice-summations-lennard-jones
 redirect_from:
   - /publication/2025-04-09-exact-lattice-summations
   - /publication/2025-08-20-exact-lattice-summations

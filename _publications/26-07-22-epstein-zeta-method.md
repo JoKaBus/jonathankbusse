@@ -2,7 +2,7 @@
 title: "Epstein zeta method for many-body lattice sums"
 collection: publications
 category: manuscripts
-permalink: /publication/epstein-zeta-method-many-body-lattice-sums
+permalink: /publication/epstein-zeta-method-many-body
 redirect_from:
   - /publication/2025-04-16-epstein-zeta-method
   - /publication/25-04-16-epstein-zeta-method
