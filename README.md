@@ -1,7 +1,7 @@
 
-# jonathankbusse.com
+# jkhartlaub.com
 
-This is my personal academic website, hosted at [jonathankbusse.com](https://jonathankbusse.com).
+This is my personal academic website, hosted at [jkhartlaub.com](https://jkhartlaub.com).
 
 It is a fork of the excellent open-source project [academicpages](https://academicpages.github.io/), which provides a very pretty and easy-to-use template for academic websites built with Jekyll.
 
@@ -17,7 +17,7 @@ For setup and usage instructions, please refer to the official academicpages doc
 
 ## License & Credits
 
-Content on this site is © Jonathan K. Busse.  
+Content on this site is © Jonathan K. Hartlaub.  
 The original template is by [academicpages](https://github.com/academicpages/academicpages.github.io) and is available under the [MIT License](https://opensource.org/licenses/MIT).
 
 ---

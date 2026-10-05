@@ -9,13 +9,13 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Jonathan Kaspar Busse"
+title                    : "Jonathan Kaspar Hartlaub"
 title_separator          : "-"
-name                     : &name "Jonathan K. Busse"
+name                     : &name "Jonathan K. Hartlaub"
 description              : &description "PhD Candidate at the German Aerospace Center (DLR)"
-url                      : "https://jonathankbusse.com" # the base hostname & protocol for your site
+url                      : "https://jkhartlaub.com" # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "JoKaBus/jonathankbusse"
+repository               : "jkhartlaub/jkhartlaub.github.io"
 
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -24,7 +24,7 @@ repository               : "JoKaBus/jonathankbusse"
 author:
   # Biographic information
   avatar           : "profile.jpeg"
-  name             : "Jonathan K. Busse"
+  name             : "Jonathan K. Hartlaub"
   pronouns         : "he / him"  
   bio              : "I am a PhD Candidate at the German Aerospace Center (DLR), specializing in long-range interacting classical and quantum systems"
   employer         : "German Aerospace Center (DLR)"
@@ -33,7 +33,7 @@ author:
   university_url   : "https://www.uni-saarland.de/en/department/mathematics.html"
   location         : "Bonn, Germany"
   uri              : # URL
-  email            : # "jonathan@jbusse.de" 
+  email            : "contact@jkhartlaub.com" 
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=kQcJUkkAAAAJ&hl=de&oi=ao"
@@ -49,7 +49,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "JoKaBus"
+  github           : "jkhartlaub"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -78,6 +78,7 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
+  alternateName    : "Jonathan K. Busse"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:

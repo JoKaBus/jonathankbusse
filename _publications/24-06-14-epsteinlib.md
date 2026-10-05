@@ -10,13 +10,13 @@ excerpt: 'EpsteinLib is a high-performance C library for the computation of the 
 date: 2024-06-14
 venue: GitHub
 link: 'https://github.com/epsteinlib/epsteinlib'
-citation: 'Buchheit, A. A., Busse, J., Gutendorf, R., & Schmitz, J. (2024). EpsteinLib: Fast and Efficient Computation of the Epstein Zeta Function. GitHub. <a href=" https://github.com/epsteinlib/epsteinlib">github.com/epsteinlib</a>'
+citation: 'Buchheit, A. A., Busse, J. K., Gutendorf, R., & Schmitz, J. (2024). EpsteinLib: Fast and Efficient Computation of the Epstein Zeta Function. GitHub. <a href=" https://github.com/epsteinlib/epsteinlib">github.com/epsteinlib</a>'
 ---
 
 <!--
 SPDX-FileCopyrightText: 2025 Andreas Buchheit <buchheit@num.uni-sb.de>
 SPDX-FileCopyrightText: 2025 Jan Schmitz <schmitz@num.uni-sb.de>
-SPDX-FileCopyrightText: 2025-2026 Jonathan Busse <jonathan@jbusse.de>
+SPDX-FileCopyrightText: 2025-2026 Jonathan K. Busse <contact@jkhartlaub.com>
 SPDX-FileCopyrightText: 2025 Ruben Gutendorf <ruben.gutendorf@uni-saarland.de>
 
 SPDX-License-Identifier: AGPL-3.0-only

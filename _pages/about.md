@@ -22,8 +22,4 @@ When I’m done crunching numbers, I like to go dancing or bouldering. I’m esp
 
 Get in Contact
 =====
-You can reach me at 
-<span style="unicode-bidi:bidi-override; direction: rtl;">
-ed&nbsp;[tod]&nbsp;essubj&nbsp;[ta]&nbsp;nahtanoj
-</span>.
-
+You can reach me at [contact@jkhartlaub.com](mailto:contact@jkhartlaub.com).
